@@ -143,7 +143,8 @@ I'm also dedicated to sharing my knowledge. I teach students in areas such as gr
 <!-- 🏆 GitHub Trophies -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=antim-IWP&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![Trophee](https://github-profile-trophy.vercel.app/?username=Antim-IWP&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 <!-- Tech Stack -->
