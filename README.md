@@ -422,6 +422,7 @@ Pandas                  1 repo              █░░░░░░░░░░░
 |-------------------|---------------|
 | **Anmol-Baranwal** | 4 commits |
 | **iamAntimPal** | 30 commits |
+| **LeetCode-Top-Interview-150** | 6 commits |
 | **MyGithubMaster** | 1 commits |
 | **TechInterviewMaster** | 30 commits |
 | **Web-Designing** | 5 commits |
