@@ -422,6 +422,7 @@ Pandas                  1 repo              █░░░░░░░░░░░
 |-------------------|---------------|
 | **iamAntimPal** | 20 commits |
 | **MyGithubMaster** | 30 commits |
+| **Workflows** | 3 commits |
 
 
 ## 📊 Commit Distribution
