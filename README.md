@@ -422,7 +422,7 @@ Pandas                  1 repo              █░░░░░░░░░░░
 |-------------------|---------------|
 | **iamAntimPal** | 22 commits |
 | **LeetCode_SQL_Database** | 8 commits |
-| **TechInterviewMaster** | 5 commits |
+| **TechInterviewMaster** | 7 commits |
 | **Workflows** | 30 commits |
 
 
