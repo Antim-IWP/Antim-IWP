@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "repo": "MyGithubMaster",
+    "count": 10
+  },
+  {
+    "repo": "Workflows",
+    "count": 3
+  }
+]
