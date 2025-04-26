@@ -420,11 +420,6 @@ Pandas                  1 repo              █░░░░░░░░░░░
 
 | 🔹 Repository Name | 📝 Commits Today |
 |-------------------|---------------|
-| **iamAntimPal** | 30 commits |
-| **LeetCode_SQL_Database** | 11 commits |
-| **MyGithubMaster** | 14 commits |
-| **TechInterviewMaster** | 7 commits |
-| **Workflows** | 30 commits |
 
 
 ## 📊 Commit Distribution
