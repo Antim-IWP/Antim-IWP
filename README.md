@@ -422,7 +422,7 @@ Pandas                  1 repo              █░░░░░░░░░░░
 |-------------------|---------------|
 | **Github-Profile** | 4 commits |
 | **iamAntimPal** | 13 commits |
-| **TechInterviewMaster** | 10 commits |
+| **TechInterviewMaster** | 11 commits |
 | **Web-Designing** | 2 commits |
 | **Workflows** | 2 commits |
 
