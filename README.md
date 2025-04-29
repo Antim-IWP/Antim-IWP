@@ -422,7 +422,7 @@ Pandas                  1 repo              █░░░░░░░░░░░
 |-------------------|---------------|
 | **iamAntimPal** | 2 commits |
 | **RESUME** | 3 commits |
-| **TechInterviewMaster** | 3 commits |
+| **TechInterviewMaster** | 11 commits |
 
 
 ## 📊 Commit Distribution
