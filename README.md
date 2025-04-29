@@ -420,11 +420,7 @@ Pandas                  1 repo              █░░░░░░░░░░░
 
 | 🔹 Repository Name | 📝 Commits Today |
 |-------------------|---------------|
-| **Github-Profile** | 12 commits |
-| **iamAntimPal** | 13 commits |
-| **TechInterviewMaster** | 13 commits |
-| **Web-Designing** | 2 commits |
-| **Workflows** | 2 commits |
+| **iamAntimPal** | 1 commits |
 
 
 ## 📊 Commit Distribution
