@@ -422,7 +422,7 @@ Pandas                  1 repo              █░░░░░░░░░░░
 |-------------------|---------------|
 | **iamAntimPal** | 2 commits |
 | **SuiteSpot** | 8 commits |
-| **Web-Designing** | 2 commits |
+| **Web-Designing** | 4 commits |
 
 
 ## 📊 Commit Distribution
