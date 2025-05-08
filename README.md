@@ -420,7 +420,7 @@ Pandas                  1 repo              █░░░░░░░░░░░
 
 | 🔹 Repository Name | 📝 Commits Today |
 |-------------------|---------------|
-| **Product_sales_analysis** | 3 commits |
+| **Product_sales_analysis** | 8 commits |
 
 
 ## 📊 Commit Distribution
