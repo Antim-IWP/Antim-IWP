@@ -421,6 +421,7 @@ Pandas                  1 repo              █░░░░░░░░░░░
 | 🔹 Repository Name | 📝 Commits Today |
 |-------------------|---------------|
 | **leetcode** | 4 commits |
+| **Web-Designing** | 5 commits |
 
 
 ## 📊 Commit Distribution
