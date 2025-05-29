@@ -420,7 +420,6 @@ Pandas                  1 repo              █░░░░░░░░░░░
 
 | 🔹 Repository Name | 📝 Commits Today |
 |-------------------|---------------|
-| **Antim-Portfolio** | 8 commits |
 
 
 ## 📊 Commit Distribution
