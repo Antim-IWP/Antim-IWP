@@ -420,13 +420,6 @@ Pandas                  1 repo              █░░░░░░░░░░░
 
 | 🔹 Repository Name | 📝 Commits Today |
 |-------------------|---------------|
-| **Graphic-Designer-Pro** | 3 commits |
-| **IWP-Acedemy-NPTT-Sem1** | 3 commits |
-| **JavaProgram-for-learning** | 3 commits |
-| **Paper** | 3 commits |
-| **PDF** | 3 commits |
-| **Terrorism-Project** | 3 commits |
-| **Testing** | 3 commits |
 
 
 ## 📊 Commit Distribution
