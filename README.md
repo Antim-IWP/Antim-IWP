@@ -420,7 +420,6 @@ Pandas                  1 repo              █░░░░░░░░░░░
 
 | 🔹 Repository Name | 📝 Commits Today |
 |-------------------|---------------|
-| **pandas-cookbook** | 1 commits |
 
 
 ## 📊 Commit Distribution
