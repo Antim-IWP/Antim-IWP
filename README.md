@@ -420,7 +420,6 @@ Pandas                  1 repo              █░░░░░░░░░░░
 
 | 🔹 Repository Name | 📝 Commits Today |
 |-------------------|---------------|
-| **JavaProgram-for-learning** | 3 commits |
 
 
 ## 📊 Commit Distribution
