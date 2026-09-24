@@ -420,7 +420,6 @@ Pandas                  1 repo              █░░░░░░░░░░░
 
 | 🔹 Repository Name | 📝 Commits Today |
 |-------------------|---------------|
-| **machine-learning-repos** | 3 commits |
 
 
 ## 📊 Commit Distribution
